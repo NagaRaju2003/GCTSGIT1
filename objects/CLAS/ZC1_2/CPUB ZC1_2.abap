@@ -4,3 +4,5 @@ class ZC1_2 definition
   create public .
 
 public section.
+
+  methods M2 .
