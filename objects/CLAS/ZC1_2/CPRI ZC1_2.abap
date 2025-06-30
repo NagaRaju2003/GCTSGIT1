@@ -1,5 +1,6 @@
 private section.
 
+  methods FM1 .
   methods M3 .
   methods M4 .
   methods M5 .
