@@ -5,4 +5,5 @@ private section.
   methods M4 .
   methods M5 .
   methods M6 .
+  methods ZB12 .
   methods M1 .
