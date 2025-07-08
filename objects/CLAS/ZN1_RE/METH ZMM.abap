@@ -3,4 +3,5 @@
     write 'new 1'.
     write 'nn'.
     WRITE 'NUKO'.
+    WRITE 'first release'.
   endmethod.
