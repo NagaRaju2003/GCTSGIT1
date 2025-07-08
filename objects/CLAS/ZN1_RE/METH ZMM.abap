@@ -4,4 +4,5 @@
     write 'nn'.
     WRITE 'NUKO'.
     WRITE 'first release'.
+    write 'loadtransport'.
   endmethod.
