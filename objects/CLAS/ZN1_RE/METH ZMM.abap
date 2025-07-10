@@ -5,4 +5,5 @@
     WRITE 'NUKO'.
     WRITE 'first release'.
     write 'loadtransport'.
+    write 'nu12'.
   endmethod.
