@@ -5,5 +5,5 @@
     WRITE 'NUKO'.
     WRITE 'first release'.
     write 'loadtransport'.
-    write 'nu12444433332211234891552234'.
+    write 'nu124444333322112348915522ww34'.
   endmethod.
