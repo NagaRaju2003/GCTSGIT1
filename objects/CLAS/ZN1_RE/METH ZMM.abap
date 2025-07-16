@@ -8,5 +8,5 @@
     write 'nu124444333322112348915522ww34'.
     write 'binuu'.
     write 'bbun'.
-    WRITE 'nwwl'.
+    WRITE 'nweeewl'.
   endmethod.
