@@ -10,4 +10,5 @@
     write 'bbun'.
     WRITE 'nweeewl'.
     write 'nnn'.
+    write 'njin'.
   endmethod.
