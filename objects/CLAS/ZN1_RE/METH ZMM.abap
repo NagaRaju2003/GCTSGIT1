@@ -11,5 +11,5 @@
     WRITE 'nweeewl'.
     write 'nnn'.
     write 'njin'.
-    WRITE 'printing'.
+    WRITE 'printwwing'.
   endmethod.
