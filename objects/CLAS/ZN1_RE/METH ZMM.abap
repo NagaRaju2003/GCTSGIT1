@@ -14,4 +14,5 @@
     WRITE 'printwwing'.
     WRITE 'df'.
     write 'nuni'.
+    write 'bbb'.
   endmethod.
