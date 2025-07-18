@@ -10,6 +10,8 @@
     write 'bbun'.
     WRITE 'nweeewl'.
     write 'nnn'.
-    write 'njin'.
+    write 'njiner'.
     WRITE 'printwwing'.
+    WRITE 'df'.
+    write 'nuni'.
   endmethod.
