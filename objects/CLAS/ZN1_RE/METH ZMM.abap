@@ -15,4 +15,5 @@
     WRITE 'df'.
     write 'nuni'.
     write 'bbb'.
+    WRITE 'mmm'.
   endmethod.
