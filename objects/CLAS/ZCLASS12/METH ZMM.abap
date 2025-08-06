@@ -1,3 +1,3 @@
-  method ZMM
-    DATA lv_variable TYPE ZN1A
+  method ZMM.
+    DATA lv_variable TYPE ZN1A.
   endmethod.
