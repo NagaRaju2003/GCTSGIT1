@@ -7,14 +7,4 @@
     write 'loadtransport'.
     write 'nu124444333322112348915522ww34'.
     write 'binuu'.
-    write 'bbun'.
-    WRITE 'nweeewl'.
-    write 'nnn'.
-    write 'njiner'.
-    WRITE 'printwwing'.
-    WRITE 'df'.
-    write 'nuni'.
-    write 'bbb'.
-    WRITE 'mmm'.
-    WRITE 'jeep'.
   endmethod.
