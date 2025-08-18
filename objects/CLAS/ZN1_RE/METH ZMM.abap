@@ -9,5 +9,4 @@
     write 'binuu'.
     write 'bbun'.
     WRITE 'nweeewl'.
-    write 'nnn'.
   endmethod.
