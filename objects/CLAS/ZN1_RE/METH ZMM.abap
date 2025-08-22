@@ -9,4 +9,6 @@
     write 'binuu'.
     WRITE 'manman'.
     WRITE 'mmnm'.
+    WRITE '1 commit'.
+    WRITE '2 commit'.
   endmethod.
