@@ -4,4 +4,5 @@
     WRITE 'kkk'.
     WRITE 'mb'.
     WRITE 'bb'.
+    WRITE 'nnon'.
   endmethod.
