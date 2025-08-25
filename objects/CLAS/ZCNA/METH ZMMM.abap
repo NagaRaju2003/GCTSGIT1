@@ -3,4 +3,5 @@
     WRITE 'MA1'.
     WRITE 'kkk'.
     WRITE 'mb'.
+    WRITE 'bb'.
   endmethod.
