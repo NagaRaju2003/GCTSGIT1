@@ -6,4 +6,5 @@
     WRITE 'bb'.
     WRITE 'nnon'.
     WRITE 'mnbnm'.
+    WRITE 'tr 7'.
   endmethod.
