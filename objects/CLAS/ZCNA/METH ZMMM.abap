@@ -5,4 +5,5 @@
     WRITE 'mb'.
     WRITE 'bb'.
     WRITE 'nnon'.
+    WRITE 'mnbnm'.
   endmethod.
