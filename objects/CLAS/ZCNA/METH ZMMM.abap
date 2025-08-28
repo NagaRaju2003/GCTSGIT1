@@ -8,4 +8,5 @@
     WRITE 'mnbnm'.
     WRITE 'tr 7'.
     WRITE 'nuna1'.
+    WRITE 'name'.
   endmethod.
