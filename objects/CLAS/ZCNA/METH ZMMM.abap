@@ -7,4 +7,5 @@
     WRITE 'nnon'.
     WRITE 'mnbnm'.
     WRITE 'tr 7'.
+    WRITE 'nuna1'.
   endmethod.
