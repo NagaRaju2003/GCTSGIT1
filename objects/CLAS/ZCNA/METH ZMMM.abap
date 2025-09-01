@@ -11,4 +11,7 @@
     WRITE 'name'.
     WRITE 'mna'.
     WRITE 'testtt'.
+    WRITE 'test1'.
+    WRITE 'test2'.
+    WRITE 'TEST3'.
   endmethod.
