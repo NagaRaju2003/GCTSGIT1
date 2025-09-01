@@ -8,4 +8,8 @@
     WRITE 'mnbnm'.
     WRITE 'tr 7'.
     WRITE 'nuna1'.
+    WRITE 'name'.
+    WRITE 'mna'.
+    WRITE 'testtt'.
+    WRITE 'test1'.
   endmethod.
