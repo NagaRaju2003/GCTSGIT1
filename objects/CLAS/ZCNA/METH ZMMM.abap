@@ -16,4 +16,5 @@
     WRITE 'TEST3'.
     WRITE 'test5'.
     WRITE 'test6'.
+    write 'test7'.
   endmethod.
