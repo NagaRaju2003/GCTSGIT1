@@ -13,4 +13,8 @@
     WRITE 'testtt'.
     WRITE 'test1'.
     WRITE 'test2'.
+    WRITE 'TEST3'.
+    WRITE 'test5'.
+    WRITE 'test6'.
+    write 'test7'.
   endmethod.
