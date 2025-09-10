@@ -20,4 +20,5 @@
     write 'test8'.
     WRITE 'test9'.
     WRITE 'test0'.
+    write 'test-1'.
   endmethod.
