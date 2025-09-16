@@ -25,4 +25,5 @@
     WRITE 'testt'.
     WRITE 'testt'.
     WRITE 'nw'.
+    write 'nnn'.
   endmethod.
