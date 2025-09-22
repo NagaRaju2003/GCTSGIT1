@@ -1,3 +1,3 @@
   method TEST.
-    write:'test'.
+    write:'test123'.
   endmethod.
