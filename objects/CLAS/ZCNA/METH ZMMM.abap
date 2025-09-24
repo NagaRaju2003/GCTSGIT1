@@ -28,4 +28,5 @@
     write 'nnn'.
     WRITE 'mnman'.
     WRITE 'nujm'.
+    WRITE 'jnn'.
   endmethod.
