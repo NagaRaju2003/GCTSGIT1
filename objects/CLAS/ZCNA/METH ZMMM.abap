@@ -29,4 +29,5 @@
     WRITE 'mnman'.
     WRITE 'nujm'.
     WRITE 'jnn'.
+    WRITE 'bean'.
   endmethod.
