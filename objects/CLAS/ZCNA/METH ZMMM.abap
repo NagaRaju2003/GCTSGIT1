@@ -30,4 +30,5 @@
     WRITE 'nujm'.
     WRITE 'jnn'.
     WRITE 'bean'.
+    WRITE 'bean1'.
   endmethod.
