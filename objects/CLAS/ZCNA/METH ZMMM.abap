@@ -31,4 +31,5 @@
     WRITE 'jnn'.
     WRITE 'bean'.
     WRITE 'bean1'.
+    WRITE 'bean2'.
   endmethod.
