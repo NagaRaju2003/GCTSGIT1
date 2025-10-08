@@ -25,4 +25,9 @@
     WRITE 'testt'.
     WRITE 'testt'.
     WRITE 'nw'.
+    write 'nnn'.
+    WRITE 'mnman'.
+    WRITE 'nujm'.
+    WRITE 'jnn'.
+    WRITE 'bean'.
   endmethod.
