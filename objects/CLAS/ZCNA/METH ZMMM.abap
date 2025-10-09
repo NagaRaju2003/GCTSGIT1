@@ -34,4 +34,5 @@
     WRITE 'bean2'.
     WRITE 'bean3'.
     write 'bean4'.
+    WRITE 'BEAN5'.
   endmethod.
