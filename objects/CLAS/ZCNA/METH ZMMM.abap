@@ -37,4 +37,5 @@
     WRITE 'BEAN5'.
     WRITE 'bean6'.
     write 'new'.
+    WRITE 'mtr'.
   endmethod.
