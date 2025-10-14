@@ -38,4 +38,5 @@
     WRITE 'bean6'.
     write 'new'.
     WRITE 'mtr'.
+    WRITE 'mm'.
   endmethod.
