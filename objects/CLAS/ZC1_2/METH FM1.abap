@@ -2,4 +2,5 @@
     write 'method write'.
     write 'method read'.
     write 'mwhi'.
-    write 'new'qaaaaasseesd
+    write 'new'.
+endmethod.
