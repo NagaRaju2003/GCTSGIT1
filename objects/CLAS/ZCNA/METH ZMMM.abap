@@ -40,4 +40,5 @@
     WRITE 'mtr'.
     WRITE 'mm'.
     write 'first gcts'.
+    write 'second gcts'.
   endmethod.
