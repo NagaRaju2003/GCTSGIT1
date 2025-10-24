@@ -7,8 +7,8 @@
     write 'loadtransport'.
     write 'nu124444333322112348915522ww34'.
     write 'binuu'.
-    write 'bbun'.
-    WRITE 'nweeewl'.
-    write 'nnn'.
-    write 'njin'.
+    WRITE 'manman'.
+    WRITE 'mmnm'.
+    WRITE '1 commit'.
+    WRITE '2 commit'.
   endmethod.
