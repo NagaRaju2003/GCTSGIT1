@@ -41,4 +41,5 @@
     WRITE 'mm'.
     write 'first gcts'.
     write 'second gcts'.
+    write 'third gcts'.
   endmethod.
