@@ -42,6 +42,5 @@
     write 'first gcts'.
     write 'second gcts'.
     write 'third gcts'.
-    write 'fourth gcts'.
-    WRITE 'fifth gcts'.
+    WRITE 'fourth gts'.
   endmethod.
