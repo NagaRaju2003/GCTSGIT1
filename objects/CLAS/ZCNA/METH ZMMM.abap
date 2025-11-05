@@ -44,6 +44,5 @@
     write 'third gcts'.
     WRITE 'fourth gts'.
     write 'fifth gcts'.
-    RITE 'six gcts
- sout('mnun")
+    WRITE 'sixth gcts'.
   endmethod.
