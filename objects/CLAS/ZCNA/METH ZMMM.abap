@@ -44,6 +44,5 @@
     write 'third gcts'.
     WRITE 'fourth gts'.
     write 'fifth gcts'.
-    WRITE 'six gct1s
-    system.out.println("nun")
+    WRITE 'six gct1s'.
   endmethod.
