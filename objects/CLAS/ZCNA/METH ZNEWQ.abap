@@ -1,4 +1,3 @@
   method ZNEWQ.
-    WRITE 'imported'.
-    write 'first gcts'.
+    WRITE '2class'.
   endmethod.
