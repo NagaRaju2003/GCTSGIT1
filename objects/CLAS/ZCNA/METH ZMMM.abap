@@ -48,4 +48,5 @@
     write 'see'.
     WRITE 'no conflict'.
     WRITE 'nono con'.
+    WRITE 'minute'.
   endmethod.
