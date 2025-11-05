@@ -44,6 +44,8 @@
     write 'third gcts'.
     WRITE 'fourth gts'.
     write 'fifth gcts'.
-    WRITE 'six gct1s'.
-    write 'seven'.
+    WRITE 'sixth gcts'.
+    write 'see'.
+    WRITE 'no conflict'.
+    WRITE 'nono con'.
   endmethod.
