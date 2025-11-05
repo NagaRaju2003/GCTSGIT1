@@ -46,4 +46,5 @@
     write 'fifth gcts'.
     WRITE 'sixth gcts'.
     write 'see'.
+    WRITE 'no conflict'.
   endmethod.
