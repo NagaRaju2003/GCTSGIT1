@@ -30,7 +30,7 @@
     WRITE 'nujm'.
     WRITE 'jnn'.
     WRITE 'bean'.
-    WRITE 'bean1'.
+    WRITE 'be'.
     WRITE 'bean2'.
     WRITE 'bean3'.
     write 'bean4'.
