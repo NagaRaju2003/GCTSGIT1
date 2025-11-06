@@ -54,4 +54,5 @@
     write 'bb'.
     write 'new'.
     WRITE 'mun'.
+    write 'sout'.
   endmethod.
