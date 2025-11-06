@@ -56,4 +56,5 @@
     WRITE 'mun'.
     write 'sout'.
     write 'so'.
+    WRITE 'main'.
   endmethod.
