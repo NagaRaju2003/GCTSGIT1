@@ -55,4 +55,5 @@
     write 'new'.
     WRITE 'mun'.
     write 'sout'.
+    write 'so'.
   endmethod.
