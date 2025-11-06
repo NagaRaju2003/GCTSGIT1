@@ -30,7 +30,7 @@
     WRITE 'nujm'.
     WRITE 'jnn'.
     WRITE 'bean'.
-    WRITE 'bean1'.
+    WRITE 'be'.
     WRITE 'bean2'.
     WRITE 'bean3'.
     write 'bean4'.
@@ -44,6 +44,12 @@
     write 'third gcts'.
     WRITE 'fourth gts'.
     write 'fifth gcts'.
-    WRITE 'six gct1s'.
-    write 'seven'.
+    WRITE 'sixth gcts'.
+    write 'see'.
+    WRITE 'no conflict'.
+    WRITE 'nono con'.
+    WRITE 'minute'.
+    WRITE 'commmit'.
+    WRITE 'commm2'.
+    write 'bb'.
   endmethod.
