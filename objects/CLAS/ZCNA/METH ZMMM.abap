@@ -58,4 +58,5 @@
     write 'so'.
     WRITE 'main'.
     write 'nn'.
+    WRITE 'mm'.
   endmethod.
