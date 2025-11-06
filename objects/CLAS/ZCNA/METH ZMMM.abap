@@ -57,4 +57,5 @@
     write 'sout'.
     write 'so'.
     WRITE 'main'.
+    write 'nn'.
   endmethod.
