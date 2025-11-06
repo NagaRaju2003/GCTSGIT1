@@ -49,14 +49,13 @@
     WRITE 'no conflict'.
     WRITE 'nono con'.
     WRITE 'minute'.
-    WRITE 'commmit'.
+    WRITE 'mmmit'.
     WRITE 'commm2'.
     write 'bb'.
     write 'new'.
     WRITE 'mun'.
     write 'sout'.
     write 'so'.
+    write 'deo'.
     WRITE 'main'.
-    write 'nn'.
-    WRITE 'mm'.
   endmethod.
