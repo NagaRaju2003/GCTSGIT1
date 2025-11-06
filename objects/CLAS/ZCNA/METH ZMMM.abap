@@ -50,4 +50,5 @@
     WRITE 'nono con'.
     WRITE 'minute'.
     WRITE 'commmit'.
+    WRITE 'commm2'.
   endmethod.
