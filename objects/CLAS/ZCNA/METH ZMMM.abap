@@ -49,4 +49,5 @@
     WRITE 'no conflict'.
     WRITE 'nono con'.
     WRITE 'minute'.
+    WRITE 'commmit'.
   endmethod.
