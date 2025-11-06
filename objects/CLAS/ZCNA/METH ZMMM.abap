@@ -51,4 +51,5 @@
     WRITE 'minute'.
     WRITE 'commmit'.
     WRITE 'commm2'.
+    write 'bb'.
   endmethod.
