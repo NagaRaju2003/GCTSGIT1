@@ -52,4 +52,5 @@
     WRITE 'commmit'.
     WRITE 'commm2'.
     write 'bb'.
+    write 'new'.
   endmethod.
