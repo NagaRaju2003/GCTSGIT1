@@ -53,4 +53,5 @@
     WRITE 'commm2'.
     write 'bb'.
     write 'new'.
+    WRITE 'mun'.
   endmethod.
