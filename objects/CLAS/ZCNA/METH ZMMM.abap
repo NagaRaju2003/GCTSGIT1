@@ -59,4 +59,5 @@
     WRITE 'main'.
     write 'nn'.
     WRITE 'mm'.
+    WRITE 'new'.
   endmethod.
