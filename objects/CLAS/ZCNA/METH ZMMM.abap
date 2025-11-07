@@ -60,4 +60,5 @@
     write 'nn'.
     WRITE 'mm'.
     WRITE 'new'.
+    write 'kk'.
   endmethod.
