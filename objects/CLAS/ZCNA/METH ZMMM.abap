@@ -61,4 +61,5 @@
     write 'nn'.
     WRITE 'mm'.
     WRITE 'new'.
+    WRITE 'testing'.
   endmethod.
