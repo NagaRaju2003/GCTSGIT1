@@ -58,5 +58,7 @@
     write 'so'.
     write 'deo'.
     WRITE 'main'.
-    write 'neo'.
-    endmethod.
+    write 'nn'.
+    WRITE 'mm'.
+    WRITE 'new'.
+  endmethod.
