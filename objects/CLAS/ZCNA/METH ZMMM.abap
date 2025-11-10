@@ -62,4 +62,5 @@
     WRITE 'new'.
     WRITE 'testing'.
     WRITE 'validation test'.
+    WRITE '2 validation'.
   endmethod.
