@@ -61,4 +61,5 @@
     WRITE 'mm'.
     WRITE 'new'.
     WRITE 'testing'.
+    WRITE 'validation test'.
   endmethod.
