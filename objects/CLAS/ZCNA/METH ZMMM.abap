@@ -64,4 +64,5 @@
     WRITE 'validation test'.
     WRITE '2 validation'.
     WRITE '3 validaion'.
+    write 'nn'.
   endmethod.
