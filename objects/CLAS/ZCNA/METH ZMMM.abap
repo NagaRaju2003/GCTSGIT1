@@ -68,4 +68,5 @@
     write 'are'.
     write 'mainn'.
     WRITE 'nnewr'.
+    WRITE 'sout'.
   endmethod.
