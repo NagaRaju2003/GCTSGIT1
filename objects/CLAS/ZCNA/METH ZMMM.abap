@@ -67,4 +67,5 @@
     write 'nn'.
     write 'are'.
     write 'mainn'.
+    WRITE 'nnewr'.
   endmethod.
