@@ -69,4 +69,5 @@
     write 'mainn'.
     WRITE 'nnewr'.
     WRITE 'sout'.
+    WRITE 'println'.
   endmethod.
