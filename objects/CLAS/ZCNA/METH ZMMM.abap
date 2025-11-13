@@ -70,4 +70,5 @@
     WRITE 'nnewr'.
     WRITE 'sout'.
     WRITE 'println'.
+    WRITE 'pp'.
   endmethod.
