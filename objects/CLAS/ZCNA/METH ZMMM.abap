@@ -72,4 +72,5 @@
     WRITE 'sout'.
     WRITE 'println'.
     WRITE 'pp'.
+    WRITE 'ppp'.
   endmethod.
