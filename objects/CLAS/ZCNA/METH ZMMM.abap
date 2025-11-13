@@ -72,4 +72,5 @@
     WRITE 'println'.
     WRITE 'pp'.
     WRITE 'ppp'.
+    WRITE 'nnn'.
   endmethod.
