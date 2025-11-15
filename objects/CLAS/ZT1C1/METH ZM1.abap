@@ -5,4 +5,5 @@
     WRITE 'new 2 print'.
     WRITE 'new 3'.
     WRITE 'nn'.
+    WRITE 'm'.
   endmethod.
