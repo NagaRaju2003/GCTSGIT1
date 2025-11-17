@@ -75,4 +75,5 @@
     WRITE 'ppp'.
     WRITE 'nnn'.
     WRITE 'new'.
+    WRITE 'nn1'.
   endmethod.
