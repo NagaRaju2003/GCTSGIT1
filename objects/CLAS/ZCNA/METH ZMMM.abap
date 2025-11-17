@@ -73,6 +73,7 @@
     WRITE 'pp'.
     WRITE 'ppp'.
     WRITE 'nnn'.
-    WRITE 'new1223'.
+    WRITE 'new'.
     WRITE 'nn1'.
+    WRITE 'mm'.
   endmethod.
