@@ -73,6 +73,6 @@
     WRITE 'println'.
     WRITE 'pp'.
     WRITE 'ppp'.
-    WRITE 'nnn'.
+    WRITE 'nnnaaaa'.
     WRITE 'new'.
   endmethod.
