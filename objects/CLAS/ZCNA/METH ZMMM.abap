@@ -73,7 +73,7 @@
     WRITE 'println'.
     WRITE 'pp'.
     WRITE 'ppp'.
-    WRITE 'nnn'.
+    WRITE 'nnnaaa222222a'.
     WRITE 'new'.
     WRITE 'nn1'.
     WRITE 'mm'.
