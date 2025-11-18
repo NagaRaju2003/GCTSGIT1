@@ -3,4 +3,4 @@
     write 'method read'.
     write 'mwhi'.
     write 'new'.
-  endmethod.
+endmethod.
