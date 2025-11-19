@@ -82,6 +82,7 @@
     WRITE 'mqaa222un'.
     WRITE 'mm'.
     WRITE 'mm'.
-    write 'ne2w'.
-    write 'op2en'.
+    write 'new'.
+    WRITE 'wqqq'.
+    WRITE 'nnnn'.
   endmethod.
