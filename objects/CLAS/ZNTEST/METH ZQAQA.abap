@@ -3,4 +3,5 @@
     WRITE 'neww'.
     WRITE 'nnn'.
     WRITE 'mnmnm'.
+    WRITE 'mnmn'.
   endmethod.
