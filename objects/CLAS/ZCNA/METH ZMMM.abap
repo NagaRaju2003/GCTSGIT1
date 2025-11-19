@@ -81,5 +81,6 @@
     WRITE 'neww'.
     WRITE 'mqaaun'.
     WRITE 'mm'.
+    WRITE 'mm'.
     write 'new'.
   endmethod.
