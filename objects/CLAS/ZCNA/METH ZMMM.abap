@@ -79,7 +79,7 @@
     WRITE 'mnewr'.
     WRITE 'neww'.
     WRITE 'mun'.
-    WRITE 'mm'.
+    WRITE 'mm122'.
     WRITE 'mm'.
     write 'new'.
   endmethod.
