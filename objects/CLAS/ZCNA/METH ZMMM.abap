@@ -83,4 +83,5 @@
     WRITE 'mm'.
     WRITE 'mm'.
     write 'new'.
+    write 'open'.
   endmethod.
