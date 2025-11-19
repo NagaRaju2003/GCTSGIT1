@@ -79,9 +79,9 @@
     WRITE 'mm'.
     WRITE 'mnewr'.
     WRITE 'neww'.
-    WRITE 'mqaaun'.
+    WRITE 'mqaa222un'.
     WRITE 'mm'.
     WRITE 'mm'.
-    write 'new'.
-    write 'open'.
+    write 'ne2w'.
+    write 'op2en'.
   endmethod.
