@@ -77,4 +77,7 @@
     WRITE 'new'.
     WRITE 'nn1'.
     WRITE 'mm'.
+    WRITE 'mnewr'.
+    WRITE 'neww'.
+    WRITE 'mun'.
   endmethod.
