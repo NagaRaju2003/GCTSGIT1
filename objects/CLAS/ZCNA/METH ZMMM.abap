@@ -81,4 +81,5 @@
     WRITE 'neww'.
     WRITE 'mun'.
     WRITE 'mm'.
+    write 'new'.
   endmethod.
