@@ -4,4 +4,5 @@
     WRITE 'nnn'.
     WRITE 'mnmnm'.
     WRITE 'mnmn'.
+    WRITE 'mnnmn'.
   endmethod.
