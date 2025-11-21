@@ -8,4 +8,5 @@
     WRITE 'mnin'.
     WRITE 'mmnmjm'.
     WRITE 'nunumunnn'.
+    WRITE 'hhbh'.
   endmethod.
