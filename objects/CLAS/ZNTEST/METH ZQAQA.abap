@@ -7,4 +7,5 @@
     WRITE 'mnnmn'.
     WRITE 'mnin'.
     WRITE 'mmnmjm'.
+    WRITE 'nunumunnn'.
   endmethod.
