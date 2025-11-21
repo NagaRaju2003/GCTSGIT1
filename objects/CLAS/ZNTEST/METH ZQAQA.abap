@@ -6,4 +6,5 @@
     WRITE 'mnmn'.
     WRITE 'mnnmn'.
     WRITE 'mnin'.
+    WRITE 'mmnmjm'.
   endmethod.
