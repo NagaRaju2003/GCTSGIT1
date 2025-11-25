@@ -83,6 +83,8 @@
     WRITE 'mm'.
     WRITE 'mm'.
     write 'new'.
-    WRITE 'wq1qq'.
-    WRITE 'nnn11n'.
+    WRITE 'wqqq'.
+    WRITE 'nnnn'.
+    WRITE 'mm'.
+    WRITE 'mmnj'.
   endmethod.
