@@ -85,4 +85,5 @@
     WRITE 'wqqq'.
     WRITE 'nnnn'.
     WRITE 'mm'.
+    WRITE 'mmnj'.
   endmethod.
