@@ -88,4 +88,5 @@
     WRITE 'mm'.
     WRITE 'mmnj'.
     WRITE 'newr'.
+    WRITE 'nnnm'.
   endmethod.
