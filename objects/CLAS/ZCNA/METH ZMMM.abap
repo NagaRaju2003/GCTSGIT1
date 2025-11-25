@@ -89,4 +89,5 @@
     WRITE 'mmnj'.
     WRITE 'newr'.
     WRITE 'nnnm'.
+    WRITE 'mnun'.
   endmethod.
