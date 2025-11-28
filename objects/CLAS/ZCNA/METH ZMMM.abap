@@ -94,4 +94,5 @@
     WRITE 'newwr'.
     WRITE 'newr'.
     WRITE 'newr'.
+    WRITE 'nmn'.
   endmethod.
