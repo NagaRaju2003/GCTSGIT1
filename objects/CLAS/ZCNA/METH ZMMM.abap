@@ -95,4 +95,5 @@
     WRITE 'newr'.
     WRITE 'nmn'.
     WRITE 'neww'.
+    WRITE 'nuu'.
   endmethod.
