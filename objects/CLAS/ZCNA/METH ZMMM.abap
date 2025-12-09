@@ -99,4 +99,5 @@
     WRITE 'nuu'.
     WRITE 'open'.
     WRITE 'neww'.
+    WRITE 'nmnm'.
   endmethod.
