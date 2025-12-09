@@ -100,4 +100,5 @@
     WRITE 'neww'.
     WRITE 'nmnm'.
     WRITE 'mnmn'.
+    WRITE 'mnm'.
   endmethod.
