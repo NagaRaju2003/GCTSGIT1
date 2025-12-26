@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT Z_NEW_REPORT_NA1.
 DATA: LS TYPE Z_NEW_D1.
+DATA: l1 TYPE Z_NEW_D2.
