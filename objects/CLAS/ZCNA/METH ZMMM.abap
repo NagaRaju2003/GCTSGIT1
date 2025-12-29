@@ -104,4 +104,5 @@
     WRITE 'mnm'.
     WRITE 'mm'.
     WRITE 'print'.
+    WRITE 'nn'.
   endmethod.
