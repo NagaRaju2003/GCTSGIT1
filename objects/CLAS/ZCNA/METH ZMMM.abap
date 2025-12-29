@@ -26,7 +26,7 @@
     WRITE 'testt'.
     WRITE 'nw'.
     write 'nnn'.
-    WRITE 'mnman'.
+    WRITE 'mnsssman'.
     WRITE 'nujm'.
     WRITE 'jnn'.
     WRITE 'bean'.
