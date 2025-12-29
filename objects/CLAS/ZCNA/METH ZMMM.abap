@@ -103,7 +103,7 @@
     WRITE 'mnmn'.
     WRITE 'mnm'.
     WRITE 'mm'.
-    WRITE 'print'.
+    WRITE 'print122'.
     WRITE 'nn'.
     WRITE 'nmnmn'.
   endmethod.
