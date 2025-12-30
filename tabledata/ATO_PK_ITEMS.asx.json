@@ -1,0 +1,28 @@
+[
+ {
+  "table":"ATO_PK_ITEMS",
+  "data":
+  [
+   {
+    "ITEM_TYPE":"CFDF",
+    "ITEM_ID":"ZZ1_NA1_30_12_F1",
+    "CHANGED_BY":"ROPL062",
+    "CHANGE_REASON":"",
+    "ITEM_DESCRIPTION":"NA1_30_12_F1",
+    "ITEM_STATUS":"C",
+    "LAST_NOTIFICATION":"+020251230112007",
+    "PREFIX":"ZZ1_"
+   },
+   {
+    "ITEM_TYPE":"CFDF",
+    "ITEM_ID":"ZZ1_Z_NA1_30_12_FIELD2",
+    "CHANGED_BY":"ROPL062",
+    "CHANGE_REASON":"",
+    "ITEM_DESCRIPTION":"Z_NA1_30_12_Field2",
+    "ITEM_STATUS":"C",
+    "LAST_NOTIFICATION":"+020251230112659",
+    "PREFIX":"ZZ1_"
+   }
+  ]
+ }
+]
