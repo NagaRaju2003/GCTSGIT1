@@ -104,5 +104,5 @@
     WRITE 'mm'.
     WRITE 'print122'.
     WRITE 'nn'.
-    WRITE 'nmnmn'.
+    WRITE 'nmnmnqaqa'.
   endmethod.
