@@ -1,0 +1,36 @@
+[
+ {
+  "table":"ATO_PK_ITEMS",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_NA1_30_12_F1"
+     }
+    ],
+    "hash":"Vn/N1r3ikk+SBET25weZF/bcPJE="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_Z_NA1_30_12_FIELD2"
+     }
+    ],
+    "hash":"rTEfGlq1LW3P+2xzLV323SWc+ic="
+   }
+  ]
+ }
+]
