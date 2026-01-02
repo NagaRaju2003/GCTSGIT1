@@ -26,6 +26,48 @@
      },
      {
       "key":"ITEM_ID",
+      "value":"ZZ1_Z02011"
+     }
+    ],
+    "hash":"fitgSD1vBs8VRa+32lh7Qf/DRFQ="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_Z02012"
+     }
+    ],
+    "hash":"AAq2rxk8N9OIEhbo0xGhW/FXWP8="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_Z0201F1"
+     }
+    ],
+    "hash":"baPGXgGLXexYY5XIc6VUgPARL14="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
       "value":"ZZ1_ZNA131"
      }
     ],
