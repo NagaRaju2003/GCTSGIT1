@@ -86,4 +86,26 @@
     WRITE 'wqqq'.
     WRITE 'nnnn'.
     WRITE 'mm'.
+    WRITE 'mmnj'.
+    WRITE 'newr'.
+    WRITE 'nnnm'.
+    WRITE 'mnun'.
+    WRITE 'nnn'.
+    WRITE 'newwr'.
+    WRITE 'newr'.
+    WRITE 'newr'.
+    WRITE 'nmn'.
+    WRITE 'neww'.
+    WRITE 'nuu'.
+    WRITE 'open'.
+    WRITE 'neww'.
+    WRITE 'nmnm'.
+    WRITE 'mnmn'.
+    WRITE 'mnm'.
+    WRITE 'mm'.
+    WRITE 'print122'.
+    WRITE 'nn'.
+    WRITE 'nmnmnqaqaqaqaq'.
+    WRITE 'mnu'.
+    WRITE 'moo'.
   endmethod.
