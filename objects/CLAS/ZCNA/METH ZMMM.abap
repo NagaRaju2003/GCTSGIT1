@@ -106,6 +106,6 @@
     WRITE 'print122'.
     WRITE 'nn'.
     WRITE 'nmnmnqaqaqaqaq'.
-    WRITE 'mnu'.
-    WRITE 'moo'.
+    WRITE 'mqqqqqnu'.
+    WRITE 'moqqqqo'.
   endmethod.
