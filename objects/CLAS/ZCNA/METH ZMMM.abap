@@ -106,4 +106,5 @@
     WRITE 'nn'.
     WRITE 'nmnmnqaqaqaqaq'.
     WRITE 'mnu'.
+    WRITE 'moo'.
   endmethod.
