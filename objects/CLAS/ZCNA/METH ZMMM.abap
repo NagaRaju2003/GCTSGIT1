@@ -105,7 +105,8 @@
     WRITE 'print122'.
     WRITE 'nn'.
     WRITE 'nmnmnqaqaqaqaq'.
-    WRITE 'mn11111u'.
-    WRITE 'moo1'.
-    WRITE 'new111'.
+    WRITE 'mnu'.
+    WRITE 'moo'.
+    WRITE 'new'.
+    WRITE 'mnmn'.
   endmethod.
