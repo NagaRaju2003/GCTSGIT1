@@ -107,5 +107,5 @@
     WRITE 'nn'.
     WRITE 'nmnmnqaqaqaqaq'.
     WRITE 'mqqqqqnu'.
-    WRITE 'moqqqqo'.
+    WRITE 'moqqqqo111'.
   endmethod.
