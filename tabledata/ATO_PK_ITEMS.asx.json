@@ -45,6 +45,26 @@
    },
    {
     "ITEM_TYPE":"CFDF",
+    "ITEM_ID":"ZZ1_ZC1_1",
+    "CHANGED_BY":"ROPL062",
+    "CHANGE_REASON":"",
+    "ITEM_DESCRIPTION":"ZC1_1",
+    "ITEM_STATUS":"C",
+    "LAST_NOTIFICATION":"+020260103173247",
+    "PREFIX":"ZZ1_"
+   },
+   {
+    "ITEM_TYPE":"CFDF",
+    "ITEM_ID":"ZZ1_ZC1_2",
+    "CHANGED_BY":"ROPL062",
+    "CHANGE_REASON":"",
+    "ITEM_DESCRIPTION":"ZC1_2",
+    "ITEM_STATUS":"C",
+    "LAST_NOTIFICATION":"+020260103173822",
+    "PREFIX":"ZZ1_"
+   },
+   {
+    "ITEM_TYPE":"CFDF",
     "ITEM_ID":"ZZ1_ZNA131",
     "CHANGED_BY":"ROPL062",
     "CHANGE_REASON":"",
