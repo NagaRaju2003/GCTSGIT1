@@ -109,4 +109,5 @@
     WRITE 'moo'.
     WRITE 'new'.
     WRITE 'mnmn'.
+    WRITE 'mmm'.
   endmethod.
