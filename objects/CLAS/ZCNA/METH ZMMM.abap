@@ -103,9 +103,4 @@
     WRITE 'mnmn'.
     WRITE 'mnm'.
     WRITE 'mm'.
-    WRITE 'print122'.
-    WRITE 'nn'.
-    WRITE 'nmnmnqaqaqaqaq'.
-    WRITE 'mqqqqqnu'.
-    WRITE 'moqqqqo111'.
   endmethod.
