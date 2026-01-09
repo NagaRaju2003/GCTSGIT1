@@ -103,4 +103,13 @@
     WRITE 'mnmn'.
     WRITE 'mnm'.
     WRITE 'mm'.
+    WRITE 'print122'.
+    WRITE 'nn'.
+    WRITE 'nmnmnqaqaqaqaq'.
+    WRITE 'mnu'.
+    WRITE 'moo'.
+    WRITE 'new'.
+    WRITE 'mnmn'.
+    WRITE 'mmm'.
+    WRITE 'monn'.
   endmethod.
