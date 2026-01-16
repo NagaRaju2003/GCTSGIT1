@@ -109,4 +109,7 @@
     WRITE 'mnu'.
     WRITE 'moo'.
     WRITE 'new'.
+    WRITE 'mnmn'.
+    WRITE 'mmm'.
+    WRITE 'monn'.
   endmethod.
