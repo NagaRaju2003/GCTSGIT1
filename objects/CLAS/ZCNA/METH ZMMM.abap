@@ -114,4 +114,5 @@
     WRITE 'nmnm'.
     WRITE 'mnmnn'.
     WRITE 'mnmn'.
+    WRITE 'mn'.
   endmethod.
