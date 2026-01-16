@@ -113,7 +113,8 @@
     WRITE 'mmm'.
     WRITE 'monn'.
     WRITE 'nmnm'.
-    WRITE 'mnmnn'.
-    WRITE 'mnmn'.
-    WRITE 'mn'.
+    WRITE 'mnm111nn'.
+    WRITE 'm11nmn'.
+    WRITE 'mn111'.
+    WRITE 'NNN'.
   endmethod.
