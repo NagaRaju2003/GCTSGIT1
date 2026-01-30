@@ -1,4 +1,4 @@
 private section.
 
-  methods ZNEWQ .
+  methods ZNNN .
   methods ZMMM .
