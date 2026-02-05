@@ -115,5 +115,7 @@
     WRITE 'mnmnn'.
     WRITE 'mnmn'.
     WRITE 'mnwww'.
-    WRITE 'bqaqanbn'.
+    WRITE 'bqaqanbikn'.
+    WRITE 'mnmnm'.
+    WRITE 'bbb'.
   endmethod.
