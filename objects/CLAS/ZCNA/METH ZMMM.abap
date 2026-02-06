@@ -119,4 +119,5 @@
     WRITE 'bqaqanbikn'.
     WRITE 'mnmnm'.
     WRITE 'bbb'.
+    WRITE 'testt'.
   endmethod.
