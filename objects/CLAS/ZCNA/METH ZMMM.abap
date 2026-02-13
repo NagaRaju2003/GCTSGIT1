@@ -120,4 +120,5 @@
     WRITE 'bbb'.
     WRITE 'testt'.
     WRITE 'ppp'.
+    WRITE 'mimmm'.
   endmethod.
