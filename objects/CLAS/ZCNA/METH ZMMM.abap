@@ -122,4 +122,5 @@
     WRITE 'ppp'.
     WRITE 'mimmm'.
     WRITE 'nmnmwwweee'.
+    WRITE 'mnmn'.
   endmethod.
