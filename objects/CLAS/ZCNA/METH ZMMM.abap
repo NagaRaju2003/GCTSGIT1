@@ -121,5 +121,5 @@
     WRITE 'testt'.
     WRITE 'ppp'.
     WRITE 'mimmm'.
-    WRITE 'nmnmwww'.
+    WRITE 'nmnmwwweee'.
   endmethod.
