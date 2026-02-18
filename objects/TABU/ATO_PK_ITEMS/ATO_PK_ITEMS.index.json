@@ -194,6 +194,34 @@
      },
      {
       "key":"ITEM_ID",
+      "value":"ZZ1_Z1802"
+     }
+    ],
+    "hash":"Y8UZxt1UYrHy6Yj1fXMtNiygfjQ="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_Z18021"
+     }
+    ],
+    "hash":"BYgKKCWe///xeHf64l+iGWOjLjg="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
       "value":"ZZ1_ZC1_1"
      }
     ],
