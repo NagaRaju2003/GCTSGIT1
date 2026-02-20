@@ -123,4 +123,5 @@
     WRITE 'mimmm'.
     WRITE 'nmnmwwwwweee'.
     WRITE 'mnmn'.
+    WRITE 'mnmn'.
   endmethod.
