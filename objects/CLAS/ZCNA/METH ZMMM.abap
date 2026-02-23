@@ -125,4 +125,5 @@
     WRITE 'nmnmwwwwweee'.
     WRITE 'mnmn'.
     WRITE 'mnmn'.
+    WRITE 'mnmnmnm'.
   endmethod.
