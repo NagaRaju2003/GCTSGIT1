@@ -126,4 +126,5 @@
     WRITE 'mnmn'.
     WRITE 'mnmn'.
     WRITE 'mnmnmnm'.
+    WRITE 'mnj'.
   endmethod.
