@@ -4,4 +4,5 @@
     WRITE 'pp'.
     WRITE 'lion'.
     WRITE 'on'.
+    WRITE 'kink'.
   endmethod.
