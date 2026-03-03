@@ -7,4 +7,5 @@
     WRITE 'kink'.
     WRITE 'popo'.
     WRITE 'popo'.
+    WRITE 'opop'.
   endmethod.
