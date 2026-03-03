@@ -6,4 +6,5 @@
     WRITE 'on'.
     WRITE 'kink'.
     WRITE 'popo'.
+    WRITE 'popo'.
   endmethod.
