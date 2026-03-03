@@ -5,4 +5,5 @@
     WRITE 'lion'.
     WRITE 'on'.
     WRITE 'kink'.
+    WRITE 'popo'.
   endmethod.
