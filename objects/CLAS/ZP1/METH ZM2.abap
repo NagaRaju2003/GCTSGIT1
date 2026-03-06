@@ -2,4 +2,5 @@
     WRITE 'POP'.
     WRITE 'pop1'.
     WRITE 'pop2'.
+    WRITE 'popll'.
   endmethod.
