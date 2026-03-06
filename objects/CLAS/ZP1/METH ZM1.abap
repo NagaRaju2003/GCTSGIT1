@@ -2,4 +2,5 @@
     WRITE 'nAAAnn'.
     WRITE 'MNM'.
     WRITE 'POP'.
+    WRITE 'ooo'.
   endmethod.
