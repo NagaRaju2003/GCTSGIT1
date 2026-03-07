@@ -3,4 +3,5 @@
     WRITE 'MNM'.
     WRITE 'POP'.
     WRITE 'ooo'.
+    WRITE 'popop'.
   endmethod.
