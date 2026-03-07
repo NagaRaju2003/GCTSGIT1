@@ -1,3 +1,3 @@
   method ZM1.
-    WRITE 'WnWWnn'.
+    WRITE 'nAAAnn'.
   endmethod.
