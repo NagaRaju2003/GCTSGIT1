@@ -2,7 +2,7 @@
     WRITE 'mnmn'.
     WRITE 'mnmnm'.
     WRITE 'pp'.
-    WRITE 'lion'.
+    WRITE 'eelion'.
     WRITE 'on'.
     WRITE 'kink'.
     WRITE 'popo'.
