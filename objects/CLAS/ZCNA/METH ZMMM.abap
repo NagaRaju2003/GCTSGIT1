@@ -125,7 +125,7 @@
     WRITE 'nmnmwwwwweee'.
     WRITE 'mnmn'.
     WRITE 'mnmn'.
-    WRITE 'mnmnmnm'.
+    WRITE 'mnm222nmnm'.
     WRITE 'mnj'.
     WRITE 'pop122op'.
   endmethod.
