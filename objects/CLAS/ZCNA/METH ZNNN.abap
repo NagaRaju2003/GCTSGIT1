@@ -8,4 +8,5 @@
     WRITE 'popo'.
     WRITE 'popo'.
     WRITE 'oeeepop'.
+    WRITE 'lolol'.
   endmethod.
