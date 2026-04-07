@@ -9,4 +9,5 @@
     WRITE 'popo'.
     WRITE 'oeeepop'.
     WRITE 'lolol'.
+    WRITE 'oooi'.
   endmethod.
