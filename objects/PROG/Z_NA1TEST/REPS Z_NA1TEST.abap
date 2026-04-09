@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT Z_NA1TEST.
 DATA(K1) = VALUE ZDATANA1(  ).
+DATA(K2) = VALUE ZDATANA1(  ).
