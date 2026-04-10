@@ -49,14 +49,13 @@
     WRITE 'no conflict'.
     WRITE 'nono con'.
     WRITE 'minute'.
-    WRITE 'mmmit'.
+    WRITE 'commmit'.
     WRITE 'commm2'.
     write 'bb'.
     write 'new'.
     WRITE 'mun'.
     write 'sout'.
     write 'so'.
-    write 'deo'.
     WRITE 'main'.
     write 'nn'.
     WRITE 'mm'.
@@ -73,13 +72,13 @@
     WRITE 'println'.
     WRITE 'pp'.
     WRITE 'ppp'.
-    WRITE 'nnnaaa222222a'.
+    WRITE 'nnn'.
     WRITE 'new'.
     WRITE 'nn1'.
     WRITE 'mm'.
     WRITE 'mnewr'.
     WRITE 'neww'.
-    WRITE 'mqaa222un'.
+    WRITE 'mun'.
     WRITE 'mm'.
     WRITE 'mm'.
     write 'new'.
@@ -129,5 +128,5 @@
     WRITE 'mnj'.
     WRITE 'pop122wwwwoeeepqqq211'.
     WRITE 'popopop123xcvWW'.
-    WRITE 'poplopoppqssssqqssssqlqqq'.
+    WRITE 'poplopoppqssssqqssssqlsssqqq'.
   endmethod.
