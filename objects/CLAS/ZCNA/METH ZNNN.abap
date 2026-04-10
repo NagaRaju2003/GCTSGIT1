@@ -10,4 +10,5 @@
     WRITE 'oeeepop'.
     WRITE 'lolol'.
     WRITE 'ooosssiq111q'.
+    WRITE 'p'.
   endmethod.
