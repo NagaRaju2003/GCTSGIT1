@@ -11,5 +11,5 @@
     WRITE 'lolol'.
     WRITE 'ooosssiq111q'.
     WRITE 'p'.
-    WRITE 'loppp'.
+    WRITE 'lopppddd'.
   endmethod.
