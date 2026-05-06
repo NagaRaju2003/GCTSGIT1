@@ -14,4 +14,5 @@
     WRITE 'lopppdddwwwssssddds'.
     WRITE 'popop'.
     WRITE 'ololoqweedddedddeeeqaqa'.
+    write'T1'.
   endmethod.
