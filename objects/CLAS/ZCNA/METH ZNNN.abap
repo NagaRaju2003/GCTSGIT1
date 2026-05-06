@@ -13,5 +13,5 @@
     WRITE 'p'.
     WRITE 'lopppdddwwwssssddds'.
     WRITE 'popop'.
-    WRITE 'ololoqweedddedddeee'.
+    WRITE 'ololoqweedddedddeeeqaqa'.
   endmethod.
