@@ -15,5 +15,5 @@
     WRITE 'popop'.
     WRITE 'ololoqweedddedddeeeqaqa'.
     write'T1'.
-    write'T2343442'.
+    write'T2343442ww'.
   endmethod.
