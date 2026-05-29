@@ -128,6 +128,6 @@
     WRITE 'mnj'.
     WRITE 'pop122wwwwoeeepqqq211'.
     WRITE 'popopop123xcvWW'.
-    WRITE 'poplopopddpqssssqqssssqlsssqqqqessse111'.
-    write 'lppdddssddddwwwdssssqa122'.
+    WRITE 'poplopopddpqssssqqssssqlsssqq55qqessse111'.
+    write 'lppdddssddddwwwdssssqa12255'.
   endmethod.
