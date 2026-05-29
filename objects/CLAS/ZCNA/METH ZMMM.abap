@@ -23,9 +23,9 @@
     write 'test-1'.
     WRITE 'test1'.
     WRITE 'testt'.
-    WRITE 'testt'.
+    WRITE 'testddt'.
     WRITE 'nw'.
-    write 'nnn'.
+    write 'nnccn'.
     WRITE 'mnsssman'.
     WRITE 'nujm'.
     WRITE 'jnn'.
