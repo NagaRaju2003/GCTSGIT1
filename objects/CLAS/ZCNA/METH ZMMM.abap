@@ -82,7 +82,7 @@
     WRITE 'mm'.
     WRITE 'mm'.
     write 'new'.
-    WRITE 'wqqq'.
+    WRITE 'wqqqqq'.
     WRITE 'nnnn'.
     WRITE 'mm'.
     WRITE 'mmnj'.
