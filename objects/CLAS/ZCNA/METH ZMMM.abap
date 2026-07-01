@@ -61,7 +61,7 @@
     WRITE 'mm'.
     WRITE 'new'.
     WRITE 'testing'.
-    WRITE 'validation test'.
+    WRITE 'validation test1'.
     WRITE '2 validation'.
     WRITE '3 validaion'.
     write 'nn'.
