@@ -116,5 +116,19 @@
     WRITE 'mnmnn'.
     WRITE 'mnmn'.
     WRITE 'mnwww'.
-    WRITE 'bnbn'.
+    WRITE 'bqaqanbikn'.
+    WRITE 'mnmnm'.
+    WRITE 'bbb'.
+    WRITE 'testt'.
+    WRITE 'ppp'.
+    WRITE 'mimmm'.
+    WRITE 'nmnmwwwwweee'.
+    WRITE 'mnmn'.
+    WRITE 'mnmn'.
+    WRITE 'mnm222nmnm'.
+    WRITE 'mnj'.
+    WRITE 'pop122wwwwoeeepqqq211'.
+    WRITE 'popopop123xcvWW'.
+    WRITE 'poplopopddpqssssqqssssqlsssqqqqessse111111231'.
+    write 'lppdddssddddwwwdssssqa12345qaa211111'.
   endmethod.
