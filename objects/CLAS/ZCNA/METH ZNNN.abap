@@ -19,4 +19,6 @@
     WRITE 'ppp'.
     WRITE 'popplpww1qqmmwwwwqqooo11'.
     WRITE 'll'.
+    WRITE 'PSTM'.
+    WRITE 'LL'.
   endmethod.
