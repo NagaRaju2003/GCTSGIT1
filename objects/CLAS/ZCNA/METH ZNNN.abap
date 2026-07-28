@@ -16,5 +16,6 @@
     WRITE 'ololoqweedddedddeeeqaqa'.
     write'T1'.
     write'T2343442ww'.
+    WRITE 'ppp'.
     WRITE 'popplp'.
   endmethod.
