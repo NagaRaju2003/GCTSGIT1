@@ -21,5 +21,5 @@
     WRITE 'll'.
     WRITE 'PSTM'.
     WRITE 'LL'.
-    WRITE 'LLLPPL'.
+    WRITE 'LLLPPwwL'.
   endmethod.
