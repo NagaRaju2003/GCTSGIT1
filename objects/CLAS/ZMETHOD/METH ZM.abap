@@ -3,5 +3,5 @@
 
     WRITE : 'version 3'.
 
-
+    write : 'version 4'.
   ENDMETHOD.
