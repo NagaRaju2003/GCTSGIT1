@@ -1,6 +1,6 @@
-class ZMETHOD definition
-  public
-  final
-  create public .
+CLASS zmethod DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
+  PUBLIC SECTION.

@@ -1,3 +1,3 @@
-private section.
+  PRIVATE SECTION.
 
-  methods ZM .
+    METHODS zm .
