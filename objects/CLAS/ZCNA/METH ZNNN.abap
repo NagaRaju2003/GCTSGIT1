@@ -23,4 +23,5 @@
     WRITE 'LL'.
     WRITE 'LLLPPwwL'.
     WRITE 'plplp'.
+    WRITE 'second'.
   endmethod.
