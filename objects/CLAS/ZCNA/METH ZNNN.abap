@@ -19,4 +19,11 @@
     WRITE 'ppp'.
     WRITE 'popplpww1qqmmwwwwqqooo11'.
     WRITE 'll'.
+    WRITE 'PSTM'.
+    WRITE 'LL'.
+    WRITE 'LLLPPwwL'.
+    WRITE 'plplp'.
+    WRITE 'second'.
+    WRITE 'third'.
+    WRITE 'popop'.
   endmethod.
