@@ -25,5 +25,4 @@
     WRITE 'plplp'.
     WRITE 'second'.
     WRITE 'third'.
-    WRITE 'popop'.
   endmethod.
