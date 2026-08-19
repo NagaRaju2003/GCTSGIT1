@@ -29,4 +29,5 @@
     WRITE 'plplpopopQAAQ'.
     WRITE 'luu'.
     WRITE 'gctsviastms version 2'.
+    WRITE 'GCTS VIASTMS V3'.
   endmethod.
