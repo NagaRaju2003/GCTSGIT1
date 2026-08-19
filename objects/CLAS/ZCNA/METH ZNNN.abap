@@ -27,4 +27,5 @@
     WRITE 'third'.
     WRITE 'popop'.
     WRITE 'plplpopopQAAQ'.
+    WRITE 'luu'.
   endmethod.
