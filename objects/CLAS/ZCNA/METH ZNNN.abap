@@ -28,5 +28,5 @@
     WRITE 'popop'.
     WRITE 'plplpopopQAAQ'.
     WRITE 'luu'.
-    WRITE 'gctsviastms'.
+    WRITE 'gctsviastms version 2'.
   endmethod.
